@@ -8,3 +8,4 @@ Kasper is a simple web application created for hands-on practice with HTML and C
 
 Feel free to explore and enhance your HTML and CSS skills with Kasper! If you have any questions or feedback, please don't hesitate to reach out. **Happy coding!** 🚀
 
+<img src="./images/kasper-one-page-psd-template-43.avif" />
